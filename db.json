@@ -139,7 +139,7 @@
 
 	  "address" : " 832 Sunsrise ave",
 
-	  "groceries" : ["Salad","Croutons","Chicken","Ice-cream","Turkey","Coffee"],
+	  "groceries" : ["Salad","Croutons","Chicken","Ice-cream","Turkey","Coffee"]
 
 	}, 
 
@@ -157,7 +157,7 @@
 
 	  "address" : " 674 Ohio ave",
 
-	  "groceries" : ["Coffee","Tea","Beef","Chocolate","Cake","Bread"],
+	  "groceries" : ["Coffee","Tea","Beef","Chocolate","Cake","Bread"]
 	}
 
 ]
