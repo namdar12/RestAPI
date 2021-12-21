@@ -1,0 +1,164 @@
+[
+	{ 'userID' : 1,
+
+	  'userName' : 'User1',
+
+	  'deliveryDay' : 'Monday',
+
+	  'time' : '11am',
+
+	  'phoneNumber' : '310-111-1110',
+
+	  'email' : 'user1@gmail.com',
+
+	  'address' : ' 111 Broadway ave',
+
+	  'groceries' : ['Apple','Bananna','Beef','Chicken','Oninon','Honey']
+
+	},
+
+	{ 'userID' : 2,
+
+	  'userName' : 'User2',
+
+	  'deliveryDay' : 'Tuesday',
+
+	  'time' : '10am',
+
+	  'phoneNumber' : '310-111-1101',
+
+	  'email' : 'user1@gmail.com',
+
+	  'address' : ' 101 Texas ave',
+
+	  'groceries' : ['Tomatos','Bananna','Beef','Chicken','Oninon','Honey']
+
+	},
+
+	{ 'userID' : 3,
+
+	  'userName' : 'User3',
+
+	  'deliveryDay' : 'Wensedays',
+
+	  'time' : '5pm',
+
+	  'phoneNumber' : '310-111-1011',
+
+	  'email' : 'user3@gmail.com',
+
+	  'address' : ' 142 Park ave',
+
+	  'groceries' : ['Orange','Carrots','Beef','Chicken','Oninon','Honey']
+
+	},
+
+	{ 'userID' : 4,
+
+	  'userName' : 'User4',
+
+	  'deliveryDay' : 'Friday',
+
+	  'time' : '3pm',
+
+	  'phoneNumber' : '310-111-0111',
+
+	  'email' : 'user4@gmail.com',
+
+	  'address' : ' 232 Olympic ave',
+
+	  'groceries' : ['Orange','Carrots','Beef','Rosemary','Oninon','Ice-Cream']
+
+	},
+
+	{ 'userID' : 5,
+
+	  'userName' : 'User5',
+
+	  'deliveryDay' : 'Saturday',
+
+	  'time' : '6pm',
+
+	  'phoneNumber' : '310-111-0111',
+
+	  'email' : 'user5@gmail.com',
+
+	  'address' : ' 892 Brea ave',
+
+	  'groceries' : ['Coconuts','Trail Mix','Chocolate','Rosemary','Oninon','Ice-Cream']
+
+	},
+
+	{ 'userID' : 6,
+
+	  'userName' : 'User6',
+
+	  'deliveryDay' : 'Sunday',
+
+	  'time' : '3pm',
+
+	  'phoneNumber' : '310-101-1111',
+
+	  'email' : 'user6@gmail.com',
+
+	  'address' : ' 642 Walnut ave',
+
+	  'groceries' : ['Sausage','Sourdough Bread','Hot Dog','Rosemary','Tea','Ice-Cream']
+
+	}, 
+
+	{ 'userID' : 7,
+
+	  'userName' : 'User7',
+
+	  'deliveryDay' : 'Tuesday',
+
+	  'time' : '1pm',
+
+	  'phoneNumber' : '310-191-1111',
+
+	  'email' : 'user7@gmail.com',
+
+	  'address' : ' 4197 Flower ave',
+
+	  'groceries' : ['Sausage','Steak','Hot Dog','Cold-cuts','Tea',]
+
+	}, 
+
+	{ 'userID' : 8,
+
+	  'userName' : 'User8',
+
+	  'deliveryDay' : 'Friday',
+
+	  'time' : '11am',
+
+	  'phoneNumber' : '310-192-1121',
+
+	  'email' : 'user8@gmail.com',
+
+	  'address' : ' 832 Sunsrise ave',
+
+	  'groceries' : ['Salad','Croutons','Chicken','Ice-cream','Turkey','Coffee']
+
+	}, 
+
+	{ 'userID' : 9,
+
+	  'userName' : 'User9',
+
+	  'deliveryDay' : 'Monday',
+
+	  'time' : '12pm',
+
+	  'phoneNumber' : '310-149-1221',
+
+	  'email' : 'user9@gmail.com',
+
+	  'address' : ' 674 Ohio ave',
+
+	  'groceries' : ['Coffee','Tea','Beef','Chocolate','Cake','Bread']
+
+	}, 
+
+]
