@@ -13,7 +13,7 @@
 
 	  "address" : " 111 Broadway ave",
 
-	  "groceries" : ["Apple","Bananna","Beef","Chicken","Oninon","Honey"]
+	  "groceries" : {"Apple":"banana"}
 
 	},
 
