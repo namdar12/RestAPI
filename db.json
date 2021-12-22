@@ -1,7 +1,7 @@
 {
-"clients" :[
+"clients": [
 
-	{ "userID" : 1,
+	{ "userID": 1,
 
 	  "userName" : "User1",
 
@@ -123,7 +123,7 @@
 
 	  "address" : " 4197 Flower ave",
 
-	  "groceries" : ["Sausage","Steak","Hot Dog","Cold-cuts","Tea",]
+	  "groceries" : ["Sausage","Steak","Hot Dog","Cold-cuts","Tea"]
 
 	}, 
 
@@ -162,5 +162,5 @@
 	  "groceries" : ["Coffee","Tea","Beef","Chocolate","Cake","Bread"]
 	}
 
-]
+	] 
 }
