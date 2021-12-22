@@ -1,4 +1,6 @@
-[
+{
+"clients" :[
+
 	{ "userID" : 1,
 
 	  "userName" : "User1",
@@ -161,3 +163,4 @@
 	}
 
 ]
+}
