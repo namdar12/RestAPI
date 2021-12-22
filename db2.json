@@ -1,20 +1,14 @@
 [
-	{ "userID" : 1,
-
-	  "userName" : "User1",
-
-	  "deliveryDay" : "Monday",
-
-	  "time" : "11am",
-
-	  "phoneNumber" : "310-111-1110",
-
-	  "email" : "user1@gmail.com",
-
-	  "address" : " 111 Broadway ave",
-
-	  "groceries" : ["Bananna","Beef","Chicken","Oninon","Honey","apple","ice"]
-
-	}
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
 ]
-
