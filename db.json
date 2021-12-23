@@ -15,7 +15,7 @@
 
 	  "address" : " 111 Broadway ave",
 
-	  "groceries" : ["Bananna","Beef","Chicken","Oninon","Honey","apple","ice"]
+	  "groceries" : {"groceries_list":["Beef","Chicken","Broccli","Bread","Bagel","Cream Cheese"]}
 
 	},
 
